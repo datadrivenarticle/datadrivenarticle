@@ -1,6 +1,5 @@
-* [Zezhong Wang](mailto:zezhong.wang@ed.ac.uk), University of Edinburgh
-* Hugo Romat, Microsoft Corporation
-* Dave-Murray Rust, TU Delft
-* Fanny Chevalier, Toronto University 
-* Nathalie Henry-Riche, Microsoft Research
+* [Shan Hao](mailto:zezhong.wang@ed.ac.uk), Shanghai University
+* [Zezhong Wang](https://zezhongwang.com/), Simon Fraser University
 * [Benjamin Bach](http://benjbach.me), University of Edinburgh
+* [Larissa Pschetz](https://www.eca.ed.ac.uk/profile/dr-larissa-pschetz), University of Edinburgh
+
