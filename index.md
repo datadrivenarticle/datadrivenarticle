@@ -1,4 +1,4 @@
-# Interactive Data Comics
+# Create data-driven articles
 
 <img src="figures/teaser-small.png" widrth="550px"/>
 <br/>
