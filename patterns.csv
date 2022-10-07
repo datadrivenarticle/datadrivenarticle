@@ -1,8 +1,9 @@
 type,title,image,description,ExampleTxt,ExampleLink,ExampleImag
 ttl,refers to data,1,"data type, changes in data, refer to the data directly",,,
-ttl,states an issue (fact or study) but not the data directly,2,,,,
-ttl,makes a judgment (on the data or the issue at hand),3,,,,
-ttl,ask a question(Use the question as the title directly),4,,,,
+ttl,states an issue,2,states an issue (fact or study) but not the data directly,,,
+ttl,makes a judgment,3,"makes a judgment on the data or the issue at hand
+",,,
+ttl,ask a question (Use the question as the title directly),4,,,,
 ttl,include emotional appeal eg. through the use of adjectives (on the data or the fact),5,,,,
 dataSource,,,,,,
 visTitle,,,,,,
