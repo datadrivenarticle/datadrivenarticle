@@ -139,12 +139,12 @@
         })
           
       
-        d3.csv("designpatterns.csv",function(d) {
+        d3.csv("patterns.csv",function(d) {
 
           var template = $('#hidden-template-designpattern').html();
           var item = $(template).clone();
           
-          $(item).find('img').attr('src','designpatterns/' + d.image +  '.png' ) ;  
+          $(item).find('img').attr('src','patterns/' + d.image +  '.png' ) ;  
           $(item).find('h3').html(d.title);  
           $(item).find('p').html(d.description);  
 
