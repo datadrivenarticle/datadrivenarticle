@@ -1,4 +1,4 @@
-# Examples
+# Patterns
 
 (If you find an example on this page broken, please [email us](zehong.wang@ed.ac.uk) so we can fix it. Our system is still a prototype and constantly improving).
 
