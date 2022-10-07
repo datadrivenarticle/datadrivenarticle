@@ -98,7 +98,7 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     
-        <script id="hidden-template-gallery" type="text/x-custom-template">
+<!--         <script id="hidden-template-gallery" type="text/x-custom-template">
       <tr>
         <td id="img">
           <img/>
@@ -109,7 +109,7 @@
           <i></i>
         </td>
       </tr>
-    </script>
+    </script> -->
     
     <script id="hidden-template-designpattern" type="text/x-custom-template">
       <tr>
@@ -124,19 +124,19 @@
     </script> 
     
     <script>
-        d3.csv("data.csv",function(d) {
+//         d3.csv("data.csv",function(d) {
           
-          var template = $('#hidden-template-gallery').html();
-          var item = $(template).clone();
+//           var template = $('#hidden-template-gallery').html();
+//           var item = $(template).clone();
           
-          $(item).find('img').attr('src','teasers/' + d.image ) ;  
-          $(item).find('a').attr('href', d.url);  
-          $(item).find('a').html(d.title);  
-          $(item).find('p').html(d.description);  
-          $(item).find('i').html(d.author);  
+//           $(item).find('img').attr('src','teasers/' + d.image ) ;  
+//           $(item).find('a').attr('href', d.url);  
+//           $(item).find('a').html(d.title);  
+//           $(item).find('p').html(d.description);  
+//           $(item).find('i').html(d.author);  
 
-          $('#gallery').append(item);
-        })
+//           $('#gallery').append(item);
+//         })
           
       
         d3.csv("patterns.csv",function(d) {
