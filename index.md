@@ -9,15 +9,15 @@
 
 Interactions are specified using a [JSON](https://en.wikipedia.org/wiki/JSON) specification and which can be rendered using our [online editor](). 
 
-Design Pattern include: 
-* Title
-* Append
-* Load layout
-* Replace
-* Lens
-* Pan & Zoom
-* Pictograms
-* and UI elements such as sliders and text input.
+Data-driven article creation pattern include: 
+* Article title
+* Data sources
+* Narrative device
+* Visualization title
+* Visualization caption
+* Visualization annotation
+* Visualization techniques
+* and Interaction.
 
 
 Check our [examples](examples.html), attend our [tutorial](tutorial.html), [get started](getstarted.html) with your own interactive data comic, or check our [documentation](documentation.html) of all available interactive techniques.
