@@ -1,12 +1,3 @@
 type,title,image,description
 title,refers to data,1,"data type, changes in data, refer to the data directly"
-title,states an issue (fact or study) but not the data directly,2,
-title,makes a judgment (on the data or the issue at hand),3,
-title,ask a question(Use the question as the title directly),4,
-title,include emotional appeal eg. through the use of adjectives (on the data or the fact),5,
-dataSource,MULTIPLE EXPLANATIONS,,
-visTitle,Exposé,,
-visCaption,Flashback,,
-visAnnotation,Time-Sequence,,
-visTech,Time-Grid,,
-interaction,Time-Nesting,,
+
