@@ -1,4 +1,4 @@
-# Tutorial
+# Workshop
 
 <img src="figures/teaser-small.png" width="550px"/>
 
