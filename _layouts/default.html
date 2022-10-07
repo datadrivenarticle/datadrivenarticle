@@ -120,6 +120,12 @@
           <p></p> 
         </td>
       </tr>
+        
+      <tr>
+       <th colspan="2"></th>
+       <i></i>
+      </tr>
+  
     </script> 
     
     <script>
@@ -146,7 +152,8 @@
           $(item).find('img').attr('src','designpatterns/' + d.image +  '.png' ) ;  
           $(item).find('h3').html(d.title);  
           $(item).find('p').html(d.description);  
-
+          $(item).find('i').attr('href', d.ExampleLink); 
+          $(item).find('i').html(d.ExampleTxt);
           $('#'+d.type).append(item);
         })
           
