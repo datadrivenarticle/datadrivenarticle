@@ -1,7 +1,7 @@
 # Patterns
 
 ## Title
-<table id="title" class="designpatterns">
+<table id="ttl" class="designpatterns">
 </table>
 
 
