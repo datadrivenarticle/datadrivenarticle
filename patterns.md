@@ -6,7 +6,7 @@
 
 
 ## Data source
-<table id="dataSources" class="designpatterns">
+<table id="dataSource" class="designpatterns">
 </table>
 
 
