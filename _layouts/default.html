@@ -97,6 +97,63 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
+    
+        <script id="hidden-template-gallery" type="text/x-custom-template">
+      <tr>
+        <td id="img">
+          <img/>
+        </td>
+        <td>
+          <h3><a href=""></a></h3>	
+          <p></p> 
+          <i></i>
+        </td>
+      </tr>
+    </script>
+    
+    <script id="hidden-template-designpattern" type="text/x-custom-template">
+      <tr>
+        <td id="img">
+          <img/>
+        </td>
+        <td>
+          <h3></h3>	
+          <p></p> 
+        </td>
+      </tr>
+    </script> 
+    
+    <script>
+        d3.csv("data.csv",function(d) {
+          
+          var template = $('#hidden-template-gallery').html();
+          var item = $(template).clone();
+          
+          $(item).find('img').attr('src','teasers/' + d.image ) ;  
+          $(item).find('a').attr('href', d.url);  
+          $(item).find('a').html(d.title);  
+          $(item).find('p').html(d.description);  
+          $(item).find('i').html(d.author);  
+
+          $('#gallery').append(item);
+        })
+          
+      
+        d3.csv("designpatterns.csv",function(d) {
+
+          var template = $('#hidden-template-designpattern').html();
+          var item = $(template).clone();
+          
+          $(item).find('img').attr('src','designpatterns/' + d.image +  '.png' ) ;  
+          $(item).find('h3').html(d.title);  
+          $(item).find('p').html(d.description);  
+
+          $('#'+d.type).append(item);
+        })
+          
+     
+    </script>
+    
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
