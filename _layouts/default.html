@@ -152,8 +152,9 @@
           $(item).find('img').attr('src','designpatterns/' + d.image +  '.png' ) ;  
           $(item).find('h3').html(d.title);  
           $(item).find('p').html(d.description);  
-          $(item).find('i').attr('href', d.ExampleLink); 
+      
           $(item).find('i').html(d.ExampleTxt);
+          $(item).find('i').attr('href', d.ExampleLink); 
           $('#'+d.type).append(item);
         })
           
