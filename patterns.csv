@@ -2,7 +2,6 @@ type,title,image,description,ExampleTxt,ExampleLink,ExampleImag
 ttl,refers to data,1,"data type, changes in data, refer to the data directly","Example：Daily Covid cases surge 60% in a week to 61,900 in biggest rise since Freedom Day as admissions climb by a quarter and deaths creep up 9%",https://www.dailymail.co.uk/news/article-10591029/Daily-Covid-cases-surge-60-week-61-900-biggest-rise-Freedom-Day.html,
 ttl,states an issue,2,states an issue (fact or study) but not the data directly,"Example: Elections 2022: live council results for England, Scotland and Wales",https://www.theguardian.com/politics/ng-interactive/2022/may/05/elections-2022-results-live-local-council-england-scotland-wales,
 ttl,makes a judgment,3,"makes a judgment on the data or the issue at hand","example：Digital banks beat the high street on customer service",https://www.thetimes.co.uk/article/online-banks-outrank-high-street-rivals-for-customer-service-x6jwsxt5r,
-",,,
 ttl,ask a question,4, Use the question as the title directly,"example：Does Gen Z spend too much time on social media?",https://www.economist.com/graphic-detail/2022/08/10/does-gen-z-spend-too-much-time-on-social-media,
 ttl,include emotional appeal eg. through the use of adjectives (on the data or the fact),5,Use emotional adjectives to arouse users' feelings,"example：Boris Johnson’s tumultuous three years as prime minister – in charts",https://www.theguardian.com/politics/2022/jul/07/boris-johnsons-tumultuous-three-years-as-prime-minister-in-charts,
 dataSource,,,,,,
