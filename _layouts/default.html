@@ -119,7 +119,7 @@
           <h3></h3>	
           <p></p> 
           <i></i>
-          <a href="">see source</a>        
+          <a href="">&#x2192;source</a>        
         </td>
       </tr>
         
@@ -155,7 +155,7 @@
           $(item).find('p').html(d.description);  
       
           $(item).find('i').html(d.ExampleTxt);
-          $(item).find('i').attr('href', d.ExampleLink); 
+          $(item).find('a').attr('href', d.ExampleLink); 
           $('#'+d.type).append(item);
         })
           
