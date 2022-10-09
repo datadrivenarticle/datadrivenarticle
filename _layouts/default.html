@@ -120,7 +120,7 @@
           <h3></h3>	
           <p></p>        
           <span style="color:#797D7F;font-style: italic;font-weight:bold">Example:</span>
-          <i></i>
+          <i><q></q></i>
           <a href="" target="_blank">&#x2192;source</a>        
         </td>
       </tr>
@@ -156,7 +156,7 @@
           $(item).find('h3').html(d.title);  
           $(item).find('p').html(d.description);  
       
-          $(item).find('i').html(d.ExampleTxt);
+          $(item).find('q').html(d.ExampleTxt);
           $(item).find('a').attr('href', d.ExampleLink); 
           $('#'+d.type).append(item);
         })
