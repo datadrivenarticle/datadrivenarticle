@@ -183,14 +183,15 @@
           var template = $('#hidden-template-designpattern').html();
           var item = $(template).clone();
           
-          $(item).find('img').attr('src','designpatterns/' + d.image +  '.png' ) ;  
+          
           $(item).find('h3').html(d.title);  
           $(item).find('p').html(d.description);  
       
           $(item).find('q').html(d.ExampleTxt);
           $(item).find('a').attr('href', d.ExampleLink); 
           $(item).each(function () {
-    $(this).find("img:eq(2)").attr('src','examples/' + d.ExampleImag) ;
+            $(this).find('img:eq(0)').attr('src','designpatterns/' + d.image +  '.png' ) ;  
+            $(this).find('img:eq(1)').attr('src','examples/' + d.ExampleImag) ;
 });
           
           $('#'+d.type).append(item);
