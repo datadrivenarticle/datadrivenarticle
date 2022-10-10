@@ -35,9 +35,9 @@
 </table>
 
 
-<!-- ## Interaction
-<table id="interaction" class="designpatterns">
-</table> -->
+## Interaction
+<table id="inter" class="designpatterns">
+</table>
 
 
 ## Download Pattern Cards
