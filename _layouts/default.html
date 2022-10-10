@@ -196,9 +196,8 @@
           $(item).find('q').html(d.ExampleTxt);
           $(item).find('a').attr('href', d.ExampleLink); 
           $(item).each(function () {
-            $(this).find('img:eq(0)').attr('src','designpatterns/' + d.image +  '.png' ) ;  
-            if (typeof d.ExampleImag === 'string' && str.length !== 0) {
-                    $(this).find('img:eq(1)').attr('src','examples/' + d.ExampleImag) ;
+            $(this).find('img:eq(0)').attr('src','designpatterns/' + d.image +  '.png' ) ;              
+            $(this).find('img:eq(1)').attr('src','examples/' + d.ExampleImag) ;
 }
           
 });
