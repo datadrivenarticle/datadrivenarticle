@@ -197,7 +197,10 @@
           $(item).find('a').attr('href', d.ExampleLink); 
           $(item).each(function () {
             $(this).find('img:eq(0)').attr('src','designpatterns/' + d.image +  '.png' ) ;  
-            $(this).find('img:eq(1)').attr('src','examples/' + d.ExampleImag) ;
+            if (typeof d.ExampleImag === 'string' && str.length !== 0) {
+                    $(this).find('img:eq(1)').attr('src','examples/' + d.ExampleImag) ;
+}
+          
 });
           
           $('#'+d.type).append(item);
