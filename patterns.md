@@ -10,6 +10,11 @@
 </table>
 
 
+## Narrative device
+<table id="narrative device" class="designpatterns">
+</table>
+
+
 ## Visualization title
 <table id="visTitle" class="designpatterns">
 </table>
