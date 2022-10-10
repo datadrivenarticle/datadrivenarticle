@@ -151,7 +151,7 @@
           <span style="color:#797D7F;font-style: italic;font-weight:bold">Example:</span>
           <i><q></q></i>
           <a href="" target="_blank">&#x2192;source</a>  
-          <id="Egimg">
+          <br/>   
           <img/>
         </td>
       </tr>
@@ -189,7 +189,10 @@
       
           $(item).find('q').html(d.ExampleTxt);
           $(item).find('a').attr('href', d.ExampleLink); 
-          $(item).find('Egimg').attr('src','examples/' + d.ExampleImag) ;
+          $(item).each(function () {
+    $(this).find("img:eq(2)").attr('src','examples/' + d.ExampleImag) ;
+});
+          
           $('#'+d.type).append(item);
         })
           
