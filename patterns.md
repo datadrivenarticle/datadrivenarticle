@@ -5,17 +5,17 @@
 </table>
 
 
-## Data Source
+## Data source
 <table id="dataSource" class="designpatterns">
 </table>
 
 
-## Narrative Device
-<table id="narrative device" class="designpatterns">
+## Narrative device
+<table id="narrativeDevice" class="designpatterns">
 </table>
 
 
-## Visualization Title
+## Visualization title
 <table id="visTitle" class="designpatterns">
 </table>
 
@@ -25,11 +25,11 @@
 </table>
 
 
-## Visualization Annotation
+## Visualization annotation
 <table id="visAnnotation" class="designpatterns">
 </table>
 
-## Visualization Technique
+## Visualization technique
 <table id="visTech" class="designpatterns">
 </table>
 
