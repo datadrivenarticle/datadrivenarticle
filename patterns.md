@@ -1,6 +1,7 @@
 # Patterns
 
 ## Title
+<h2 style="background-color:#FF5C22; color:white">Title</h2>
 <table id="ttl" class="designpatterns">
 </table>
 
