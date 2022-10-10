@@ -29,9 +29,11 @@
 <table id="visAnnotation" class="designpatterns">
 </table>
 
+
 ## Visualization Technique
 <table id="visTech" class="designpatterns">
 </table>
+
 
 ## Interaction
 <table id="interaction" class="designpatterns">
