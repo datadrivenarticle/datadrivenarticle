@@ -1,9 +1,6 @@
 # Patterns
 
 ## Title
-
-<!-- <h2 class="secTitleBanner" id="ttl">Title</h2> -->
-
 <table id="ttl" class="designpatterns">
 </table>
 
