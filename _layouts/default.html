@@ -45,6 +45,35 @@
       img#logo{
         width: 200px;
       }
+      
+      #secTitleBanner{
+        color:white; 
+        padding: 5px
+      }
+      .ttl{
+         background-color:#FF5C22; 
+      }
+      .dataSrc{
+        background-color:#FF3B30
+      }
+      .narrDvc{
+        background-color:#FFC400
+      }
+      .visTtl{
+        background-color:#022D9A
+      }
+      .visCap{
+        background-color:#3A85FF
+      }
+      .visAnno{
+        background-color:#A7C7FF
+      }
+      .visTech{
+        background-color:#0142D3
+      }
+      .inter{
+        background-color:#D6E4FE
+      }
     </style>
   </head>
   <body>
@@ -121,7 +150,8 @@
           <p></p>        
           <span style="color:#797D7F;font-style: italic;font-weight:bold">Example:</span>
           <i><q></q></i>
-          <a href="" target="_blank">&#x2192;source</a>        
+          <a href="" target="_blank">&#x2192;source</a>  
+          <id="Egimg" alt="Example Image">
         </td>
       </tr>
         
@@ -158,6 +188,7 @@
       
           $(item).find('q').html(d.ExampleTxt);
           $(item).find('a').attr('href', d.ExampleLink); 
+          $(item).find('Egimg').attr('src','examples/' + d.ExampleImag) ;
           $('#'+d.type).append(item);
         })
           
