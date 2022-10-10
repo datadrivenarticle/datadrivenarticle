@@ -40,7 +40,7 @@ visTech,Bubble,vis5_bubble,"Like a scatterplot, but adds additional detail by si
 visTech,Stacked chart,vis7_stacked,"This type of graph (sometimes called a stream graph) depicts aggregate patterns and often supports drill-down into a subset of individual series.",,,
 visTech,Dumbell chart/Slope,vis8_dumbell,"Perfect for showing how ranks have changed over time or vary between categories.",,,
 visTech,Treemap,vis9_treemap,"Treemap visualizations are space-efficient displays of large structured datasets: contiguous shapes are organized according to their hierarchy or categorization.Use for hierarchical part-to-whole relationships",,,
-visTech,Small multiple,vis10_small multiple,"A small multiple is a data visualization that consists of multiple charts arranged in a grid. This makes it easy to compare the entirety of the data. They are also known as trellis, lattice, grid, and panel charts.",,,
+visTech,Small multiple,vis10_smalmul,"A small multiple is a data visualization that consists of multiple charts arranged in a grid. This makes it easy to compare the entirety of the data. They are also known as trellis, lattice, grid, and panel charts.",,,
 visTech,Other,vis11_other,"Other types of visualization, such as Sankey diagram, thermal diagram, etc., and specially drawn information diagram",,,
 interaction,Inspect,in1_ins,"Show the specifics of the data to get details on demand","hover or click an element to see a tooltip with more information",https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker,
 interaction,Connect,in2_con,"show me related items","Click on one element and highlight all similar elements for comparison",https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker,
