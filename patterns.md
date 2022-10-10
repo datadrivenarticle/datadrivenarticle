@@ -2,7 +2,7 @@
 
 ## Title
 
-<h2 style="background-color:#FF5C22; color:white; padding: 5px";>Title</h2>
+<h2 class="secTitleBanner" id="ttl">Title</h2>
 <table id="ttl" class="designpatterns">
 </table>
 
