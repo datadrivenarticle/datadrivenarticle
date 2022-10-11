@@ -1,6 +1,13 @@
 # Patterns
 
-
+<p><a href="ttl-color">Title</a></p>
+<p><a href="dataSrc-color">Data Source</a></p>
+<p><a href="narrDvc-color">Narrative Device</a></p>
+<p><a href="visTtl-color">Visualization Title</a></p>
+<p><a href="visTech-color">Visualization Technique</a></p>
+<p><a href="visCap-color">Visualization Caption</a></p>
+<p><a href="visAnno-color">Visualization Annotation</a></p>
+<p><a href="inter-color">Interaction</a></p>
 
 <h2 class='secTitleBanner' id='ttl-color'>Title</h2>
 
@@ -25,6 +32,14 @@
 </table>
 
 
+
+<h2 class='secTitleBanner' id='visTech-color'>Visualization Technique</h2>
+
+<table id="visTech" class="designpatterns">
+</table>
+
+
+
 <h2 class='secTitleBanner' id='visCap-color'>Visualization Caption</h2>
 
 <table id="visCaption" class="designpatterns">
@@ -36,11 +51,6 @@
 <table id="visAnnotation" class="designpatterns">
 </table>
 
-
-<h2 class='secTitleBanner' id='visTech-color'>Visualization Technique</h2>
-
-<table id="visTech" class="designpatterns">
-</table>
 
 
 <h2 class='secTitleBanner' id='inter-color'>Interaction</h2>
