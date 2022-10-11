@@ -1,6 +1,6 @@
 # Create data-driven articles
 
-<img src="figures/teaser-small.png" widrth="550px"/>
+<img src="figures/dadp_small1.png" widrth="550px"/>
 <br/>
 
 
