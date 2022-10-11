@@ -1,6 +1,6 @@
 # Create data-driven articles
 
-<img src="figures/dadp_small2.png" widrth="550px"/>
+<img src="figures/dadp_small2.png" width="550px"/>
 <br/>
 
 
@@ -11,12 +11,12 @@ Interactions are specified using a [JSON](https://en.wikipedia.org/wiki/JSON) sp
 
 Data-driven article creation pattern include: 
 * Article title
-* Data sources
+* Data source
 * Narrative device
 * Visualization title
 * Visualization caption
 * Visualization annotation
-* Visualization techniques
+* Visualization technique
 * and Interaction.
 
 
