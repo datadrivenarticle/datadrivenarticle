@@ -1,6 +1,12 @@
 # Workshop
 
-<img src="figures/teaser-small.png" width="550px"/>
+<img src="figures/dadp_small1.png" width="550px"/>
+
+In this online workshop, we will introduce you to a set of data journalism patterns support creating data journals. As part of our research, we aim to evaluate a 5-level spectrum we identified from data journals ranging from quick data updates to in-depth analysis, and data journal patterns composed by essential elements in different modules (e.g., title, visualization, narrative). The workshop will last for 45-60 minutes with the following procedure:
+
+  * We introduce you to the **5-level spectrum** and **design patterns** we defined from data journals such as The Times, New York Times, The Guardian, The Economist, and BBC.
+  * Pick one article of your choice, position it on the spectrum and introduce to us what patterns and elements are used, then transfer the structure of your article to another category on the spectrum by assembling the pattern cards.
+  * An open discussion about your design decisions and tradeoffs you made during the transferring process, and your opinions towards using these patterns.
 
 <iframe width="560" height="350" src="https://www.youtube.com/embed/YGLoBrMgoIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
