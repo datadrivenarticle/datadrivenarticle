@@ -5,7 +5,7 @@
 
 
 
-This page lists [design patterns for data-driven article](https://datadrivenarticle.github.io/patterns.html) collected to support the design and creative exploration of data-driven articles. We run a dedicated [workshop](https://datadrivenarticle.github.io/workshop.html) to help you apply and discuss design patterns in your work.
+This page lists [design patterns for data-driven article](https://datadrivenarticle.github.io/patterns.html) collected to support the design and creative exploration of data-driven articles. We run a dedicated [workshop](https://datadrivenarticle.github.io/workshop.html) to help you apply and discuss design patterns.
 
 
 ## What are Data-driven Articles？
