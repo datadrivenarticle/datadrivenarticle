@@ -1,7 +1,7 @@
 # Patterns
 
 
-<p><a href="#ttl-color">Title</a> <a href="#dataSrc-color">Data Source</a> <a href="#narrDvc-color">Narrative Device</a> <a href="#visTtl-color">Visualization Title</a> <a href="#visTech-color">Visualization Technique</a> <a href="#visCap-color">Visualization Caption</a> <a href="#visAnno-color">Visualization Annotation</a> <a href="#inter-color">Interaction</a></p>
+<p><a class= 'bookMark' href="#ttl-color">Title</a> <a class= 'bookMark' href="#dataSrc-color">Data Source</a> <a class= 'bookMark' href="#narrDvc-color">Narrative Device</a> <a class= 'bookMark' href="#visTtl-color">Visualization Title</a> <a class= 'bookMark' href="#visTech-color">Visualization Technique</a> <a class= 'bookMark' href="#visCap-color">Visualization Caption</a> <a class= 'bookMark' href="#visAnno-color">Visualization Annotation</a> <a class= 'bookMark' href="#inter-color">Interaction</a></p>
 
   
 <h2 class='secTitleBanner' id='ttl-color'>Title</h2>
