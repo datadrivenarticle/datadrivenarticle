@@ -5,7 +5,7 @@
 
 
 
-This page lists [design patterns for data-driven article](https://datadrivenarticle.github.io/patterns.html) collected to support the design and creative exploration of data-driven articles. We run a dedicated [workshop](https://datadrivenarticle.github.io/workshop.html) to help you applying and discussing design patterns in your work.
+This page lists [design patterns for data-driven article](https://datadrivenarticle.github.io/patterns.html) collected to support the design and creative exploration of data-driven articles. We run a dedicated [workshop](https://datadrivenarticle.github.io/workshop.html) to help you apply and discuss design patterns in your work.
 
 
 ## What are Data-driven Articles？
@@ -14,13 +14,14 @@ Data-driven journalism or data-driven articles can be considered as journalism�
 
 ## Why design patterns？
 
-There are many high-level guidelines on data-driven article design, including advice about data collection and cleaning, setting a story, and using visualization and interaction. Despite this, we know little about How to create different types of data-driven articles (daily or survey), What are the essential components of the article, and how to match these components.
+There are many high-level guidelines on data-driven article design, including advices about data collection and cleaning, setting a story, and using visualizations and interactions. Apart from these, we know little about how to create different types of data-driven articles (e.g., a daily report or a survey), what are the essential components of data driven articles, and how to deal with these components.
 
-Creating a data-driven article is admittedly not straightforward: editors have access to numerous data streams which they can process, clean up or analyze as they see fit; they have to think about whether to build an interesting story; they have a wide range of visual representations at their disposal; and they can structure and present these visualizations in numerous ways, to improve the whole article. According to the existing production mode, editors may need to have various skills such as programming, writing, and design to meet these challenges.
+Creating a compelling data-driven article is admittedly not straightforward, even experienced editors need to take effort on deliberating titles, narrative structure, visual representations at their disposal, and necessary interactions. 
+<!-- According to the existing production mode, it requires the editor to have various skills and experience to be equipped for the job. -->
+Such a number of choices can be overwhelming, so there is a timely need for guidance for creating data-driven articles. By anylizing 71 data-driven news articles from large news agencies. We present patterns distilled from these examples, aim to help editors with, or without experience of writing data-driven articles to mediate, and build up data-driven articles with meaningfull visuals and compelling narratives.
 
-Such a number of choices can be overwhelming, so there is a timely need for guidance about effective data-driven article design: Lessons learned from previous practices, help editors without visual background or designers without writing ideas, designed for interdisciplinary work or nonexpert audiences.
 
-### Data-driven article creation Design pattern include: 
+### Data-driven article creation patterns include: 
 * Article title
 * Data source
 * Narrative device
