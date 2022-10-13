@@ -1,7 +1,13 @@
-# Workshop
+# Create data-driven article Workshop
 
 <img src="figures/dadp_small1.png" width="550px"/>
 
+This workshop aims to help you with the design of a data-driven article using a set of design patterns. The workshop will be held online and has synchronous and asynchronous parts. As part of our research, we aim to understand essential components and design principles for data-driven article design and how our design patterns can support this design process through ideation, reflection, and analysis.
+
+# Goal
+
+
+# Process
 In this online workshop, we will introduce you to a set of data journalism patterns support creating data journals. As part of our research, we aim to evaluate a 5-level spectrum we identified from data journals ranging from quick data updates to in-depth analysis, and data journal patterns composed by essential elements in different modules (e.g., title, visualization, narrative). The workshop will last for 45-60 minutes with the following procedure:
 
   * We introduce you to the **5-level spectrum** and **design patterns** we defined from data journals such as The Times, New York Times, The Guardian, The Economist, and BBC.
