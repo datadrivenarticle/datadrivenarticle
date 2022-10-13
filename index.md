@@ -10,7 +10,7 @@ This page lists [design patterns for data-driven article](https://datadrivenarti
 
 ## What are Data-driven Articles？
 
-Data-driven journalism or data-driven articles can be considered as journalism’s response to the datafication of society. They have being widely used in seasoned data news columns or personal blogs, also known as “textual narratives” and “magazine style narrative visualizations”. The audience can easily delve into the database and explore personalized stories through fascinating **visualization and interactions**.
+Data-driven journalism or data-driven articles can be considered as journalism’s response to the datafication of society. They have being widely used in seasoned data news columns or personal blogs, also known as “textual narratives” and “magazine style narrative visualizations”. The audience can easily delve into the database and explore personalized stories through fascinating visualization and interactions.
 
 ## Why design patterns？
 
@@ -20,7 +20,7 @@ Creating a data-driven article is admittedly not straightforward: editors have a
 
 Such a number of choices can be overwhelming, so there is a timely need for guidance about effective data-driven article design: Lessons learned from previous practices, help editors without visual background or designers without writing ideas, designed for interdisciplinary work or nonexpert audiences.
 
-###Data-driven article creation Design pattern include: 
+### Data-driven article creation Design pattern include: 
 * Article title
 * Data source
 * Narrative device
