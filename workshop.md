@@ -14,6 +14,7 @@ This workshop aims to help you with the design of a data-driven article using a 
  * Make deliberate design decisions and reflect on these choices.
  * Use state-of-the-art tools for mockups and design sketches (e.g., Figma, Miro).
  * Discuss your designs with peers and learn from others.
+
 ### What this workshop will not provide:
  * An introduction to Tableau, Power BI, or similar tools.
  * A workshop on programming visualizations, e.g., using d3.js or other libraries.
