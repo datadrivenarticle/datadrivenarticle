@@ -18,11 +18,12 @@ This workshop aims to help you with the design of a data-driven article using a 
 ### What this workshop will not provide:
  * An introduction to Tableau, Power BI, or similar tools.
  * A workshop on programming visualizations, e.g., using d3.js or other libraries.
+ * Do the actual writing for an article. Rather, we focus on structure and how visualization is used to support your argument
 
 # Process
-In this online workshop, we will introduce you to a set of data journalism patterns support creating data journals. As part of our research, we aim to evaluate a 5-level spectrum we identified from data journals ranging from quick data updates to in-depth analysis, and data journal patterns composed by essential elements in different modules (e.g., title, visualization, narrative). The workshop will last for 45-60 minutes with the following procedure:
+In this online workshop, we will introduce you to a set of data-driven article patterns to support creating data journals. As part of our research, we aim to evaluate a 5-level spectrum we identified from data journals ranging from quick data updates to in-depth analysis, and data journal patterns composed by essential elements in different modules (e.g., title, visualization, narrative). The workshop will last for 45-60 minutes with the following procedure:
 
-  * We introduce you to the **5-level spectrum** and **design patterns** we defined from data journals such as The Times, New York Times, The Guardian, The Economist, and BBC.
-  * Pick one article of your choice, position it on the spectrum and introduce to us what patterns and elements are used, then transfer the structure of your article to another category on the spectrum by assembling the pattern cards.
-  * An open discussion about your design decisions and tradeoffs you made during the transferring process, and your opinions towards using these patterns.
-
+  * **INTRODUCE：** We introduce you to the 5-level spectrum of use cases and design patterns we defined from data journals such as The Times, New York Times, The Guardian, The Economist, and BBC.
+  * **ANALYSIS:** Pick one article of your choice, position it on the spectrum and introduce to us what patterns and elements are used, then transfer the structure of your article to another category on the spectrum by assembling the pattern cards.
+  * **APPLICATION:** Imagine, using that same article as a base, and writing an article for another scenario on the spectrum.
+  * **DISCUSSION:** An open discussion about your design decisions and tradeoffs you made during the transferring process, and your opinions towards using these patterns.
