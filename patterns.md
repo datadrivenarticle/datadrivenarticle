@@ -1,6 +1,7 @@
 # Patterns
 
-
+<!-- Back to top button -->
+<a id="button"></a>
 
 <p><a class= 'bookMark' id='hoverttl' href="#ttl-color">Title</a> <a class= 'bookMark' id='hoverdataSrc' href="#dataSrc-color">Data Source</a> <a class= 'bookMark' id='hovernarrDvc' href="#narrDvc-color">Narrative Device</a> <a class= 'bookMark' id='hovervisTtl' href="#visTtl-color">Visualization Title</a> <a class= 'bookMark' id='hovervisTech' href="#visTech-color">Visualization Technique</a> <a class= 'bookMark' id='hovervisCap' href="#visCap-color">Visualization Caption</a> <a class= 'bookMark' id='hovervisAnno' href="#visAnno-color">Visualization Annotation</a> <a class= 'bookMark' id='hoverinter' href="#inter-color">Interaction</a></p>
 
@@ -59,3 +60,21 @@
 
 [(CC BY-NC-ND)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+
+<script>
+  var btn = $('#button');
+
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 300) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+
+btn.on('click', function(e) {
+  e.preventDefault();
+  $('html, body').animate({scrollTop:0}, '300');
+});
+
+  </script>
