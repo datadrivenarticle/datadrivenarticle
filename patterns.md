@@ -3,7 +3,7 @@
 <!-- Back to top button -->
 <a id="button"></a>
 
-<p><a class= 'bookMark' id='hoverttl' href="#ttl-color">Headline</a> <a class= 'bookMark' id='hoverlead' href="#lead-color">News lead</a> <a class= 'bookMark' id='hoverdataSrc' href="#dataSrc-color">Data Source</a> <a class= 'bookMark' id='hovernarrDvc' href="#narrDvc-color">Narrative</a> <a class= 'bookMark' id='hovervisTtl' href="#visTtl-color">Visualization Title</a> <a class= 'bookMark' id='hovervisTech' href="#visTech-color">Visualization Technique</a> <a class= 'bookMark' id='hovervisCap' href="#visCap-color">Visualization Caption</a> <a class= 'bookMark' id='hovervisAnno' href="#visAnno-color">Visualization Annotation</a> <a class= 'bookMark' id='hoverinter' href="#inter-color">Interaction</a></p>
+<p><a class= 'bookMark' id='hoverttl' href="#ttl-color">Headline</a> <a class= 'bookMark' id='hoverlead' href="#lead-color">News lead</a> <a class= 'bookMark' id='hoverdataSrc' href="#dataSrc-color">Data Source</a> <a class= 'bookMark' id='hovernarrDvc' href="#narrDvc-color">Narrative</a> <a class= 'bookMark' id='hoverim' href="#im-color">Image</a> <a class= 'bookMark' id='hovervisTtl' href="#visTtl-color">Visualization Title</a> <a class= 'bookMark' id='hovervisTech' href="#visTech-color">Visualization Technique</a> <a class= 'bookMark' id='hovervisCap' href="#visCap-color">Visualization Caption</a> <a class= 'bookMark' id='hovervisAnno' href="#visAnno-color">Visualization Annotation</a> <a class= 'bookMark' id='hoverinter' href="#inter-color">Visualization Interaction</a> <a class= 'bookMark' id='hovervi' href="#vi-color">Video</a></p>
 
   
 <h2 class='secTitleBanner' id='ttl-color'>Headline</h2>
@@ -28,6 +28,10 @@
 <table id="narrativeDevice" class="designpatterns">
 </table>
 
+<h2 class='secTitleBanner' id='im-color'>Image</h2>
+
+<table id="image" class="designpatterns">
+</table>
 
 <h2 class='secTitleBanner' id='visTtl-color'>Visualization Title</h2>
 
@@ -56,9 +60,15 @@
 
 
 
-<h2 class='secTitleBanner' id='inter-color'>Interaction</h2>
+<h2 class='secTitleBanner' id='inter-color'>Visualization Interaction</h2>
 
 <table id="inter" class="designpatterns">
+</table>
+
+
+<h2 class='secTitleBanner' id='vi-color'>Video</h2>
+
+<table id="video" class="designpatterns">
 </table>
 
 
