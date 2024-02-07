@@ -3,10 +3,10 @@
 <!-- Back to top button -->
 <a id="button"></a>
 
-<p><a class= 'bookMark' id='hoverttl' href="#ttl-color">Title</a> <a class= 'bookMark' id='hoverdataSrc' href="#dataSrc-color">Data Source</a> <a class= 'bookMark' id='hovernarrDvc' href="#narrDvc-color">Narrative Device</a> <a class= 'bookMark' id='hovervisTtl' href="#visTtl-color">Visualization Title</a> <a class= 'bookMark' id='hovervisTech' href="#visTech-color">Visualization Technique</a> <a class= 'bookMark' id='hovervisCap' href="#visCap-color">Visualization Caption</a> <a class= 'bookMark' id='hovervisAnno' href="#visAnno-color">Visualization Annotation</a> <a class= 'bookMark' id='hoverinter' href="#inter-color">Interaction</a></p>
+<p><a class= 'bookMark' id='hoverttl' href="#ttl-color">Headline</a> <a class= 'bookMark' id='hoverdataSrc' href="#dataSrc-color">Data Source</a> <a class= 'bookMark' id='hovernarrDvc' href="#narrDvc-color">Narrative</a> <a class= 'bookMark' id='hovervisTtl' href="#visTtl-color">Visualization Title</a> <a class= 'bookMark' id='hovervisTech' href="#visTech-color">Visualization Technique</a> <a class= 'bookMark' id='hovervisCap' href="#visCap-color">Visualization Caption</a> <a class= 'bookMark' id='hovervisAnno' href="#visAnno-color">Visualization Annotation</a> <a class= 'bookMark' id='hoverinter' href="#inter-color">Interaction</a></p>
 
   
-<h2 class='secTitleBanner' id='ttl-color'>Title</h2>
+<h2 class='secTitleBanner' id='ttl-color'>Headline</h2>
 
 <table id="ttl" class="designpatterns">
 </table>
@@ -17,7 +17,7 @@
 <table id="dataSource" class="designpatterns">
 </table>
 
-<h2 class='secTitleBanner' id='narrDvc-color'>Narrative Device</h2>
+<h2 class='secTitleBanner' id='narrDvc-color'>Narrative</h2>
 
 <table id="narrativeDevice" class="designpatterns">
 </table>
