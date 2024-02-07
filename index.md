@@ -1,16 +1,16 @@
-# Create data-driven articles
+# Create Data-driven News Articles
 
 <img src="figures/dadp_small2.png" width="550px"/>
 <br/>
 
 
 
-This page lists [design patterns for data-driven article](https://datadrivenarticle.github.io/patterns.html) collected to support the design and creative exploration of data-driven articles. We run a dedicated [workshop](https://datadrivenarticle.github.io/workshop.html) to help you apply and discuss design patterns.
+This page lists [design patterns for data-driven news article](https://datadrivenarticle.github.io/patterns.html) collected to support the design and creative exploration of data-driven articles. We run a dedicated [workshop](https://datadrivenarticle.github.io/workshop.html) to help you apply and discuss design patterns.
 
 
-## What are Data-driven Articles？
+## What are Data-driven News Articles？
 
-Data-driven journalism or data-driven articles can be considered as journalism’s response to the datafication of society. They have being widely used in seasoned data news columns or personal blogs, also known as “textual narratives” and “magazine style narrative visualizations”. The audience can easily delve into the database and explore personalized stories through fascinating visualization and interactions.
+Data-driven journalism or data-driven news articles can be considered as journalism’s response to the datafication of society. They have being widely used in seasoned data news columns or personal blogs, also known as “textual narratives” and “magazine style narrative visualizations”. The audience can easily delve into the database and explore personalized stories through fascinating visualization and interactions.
 
 ## Why design patterns？
 
