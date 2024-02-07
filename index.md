@@ -22,14 +22,17 @@ Such a number of choices can be overwhelming, so there is a timely need for guid
 
 
 ### Data-driven article creation patterns include: 
-* Article title
+* Headline
+* News Lead
 * Data source
-* Narrative device
+* Narrative
+* Image
 * Visualization title
-* Visualization caption
-* Visualization annotation
 * Visualization technique
-* and Interaction.
+* Visualization annotation
+* Visualization caption
+* Visualization Interaction.
+* * and Viedo.
 
 
 
