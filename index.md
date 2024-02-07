@@ -32,7 +32,7 @@ Such a number of choices can be overwhelming, so there is a timely need for guid
 * Visualization annotation
 * Visualization caption
 * Visualization Interaction.
-* * and Viedo.
+* and Viedo.
 
 
 
