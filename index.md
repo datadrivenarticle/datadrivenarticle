@@ -4,7 +4,7 @@
 <br/>
 
 
-Through the analysis of 162 data-driven news articles collected from news media, we identified five types of articles based on the level of data involvement and narrative complexity: **Quick Update**, **Briefing**, **Chart Description**, **Investigation**, and **In-depth Investigation**. We then identified 72 [design patterns for data-driven news articles](https://datadrivenarticle.github.io/patterns.html) to support the design and creative exploration of data-driven articles. This work is published at CHI 2024 (honourable mention). [The paper can be found here](https://github.com/datadrivenarticle/datadrivenarticle.github.io/raw/7a6412082b153d0077e21282a06a1343b4b3ae32/Interactive_Data_Comics_VIS2021%20(3).pdf)
+Through the analysis of 162 data-driven news articles collected from news media, we identified five types of articles based on the level of data involvement and narrative complexity: **Quick Update**, **Briefing**, **Chart Description**, **Investigation**, and **In-depth Investigation**. We then identified 72 [design patterns for data-driven news articles](https://datadrivenarticle.github.io/patterns.html) to support the design and creative exploration of data-driven articles. This work is published at CHI 2024 with an honourable mention. [The paper can be found here](https://github.com/datadrivenarticle/datadrivenarticle.github.io/raw/7a6412082b153d0077e21282a06a1343b4b3ae32/Interactive_Data_Comics_VIS2021%20(3).pdf)
 
 
 
