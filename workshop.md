@@ -1,8 +1,8 @@
-# Create data-driven article Workshop
+# Data-Driven News Article Creation Workshop
 
 <img src="figures/dadp_small1.png" width="550px"/>
 
-This workshop aims to help you with the design of a data-driven article using a set of design patterns. The workshop will be held online and has synchronous and asynchronous parts. As part of our research, we aim to understand essential components and design principles for data-driven article design and how our design patterns can support this design process through ideation, reflection, and analysis.
+This workshop aims to help you with the design of a data-driven news article using a set of design patterns. The workshop will be held online and has synchronous and asynchronous parts. As part of our research, we aim to understand essential components and design principles for data-driven article design and how our design patterns can support this design process through ideation, reflection, and analysis.
 
 # Goal
 
