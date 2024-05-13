@@ -17,8 +17,7 @@ There are many high-level guidelines on data-driven article design, including ad
 
 Creating a compelling data-driven article is admittedly not straightforward, even experienced editors need to make an effort to deliberate titles, narrative structure, visual representations at their disposal, and necessary interactions. 
 <!-- According to the existing production mode, it requires the editor to have various skills and experience to be equipped for the job. -->
-Such a number of choices can be overwhelming, so there is a timely need for guidance in creating data-driven articles. By anylizing 71 data-driven news articles from large news agencies. We present patterns distilled from these examples, and aim to help editors with, or without experience in writing data-driven articles to mediate, and build up data-driven articles with meaningful visuals and compelling narratives.
-
+Such a number of choices can be overwhelming, so there is a timely need for guidance in creating data-driven articles. 
 
 ### Data-driven news article creation patterns include: 
 * Headline
