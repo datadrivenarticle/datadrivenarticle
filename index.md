@@ -1,4 +1,4 @@
-# Create Data-driven News Articles
+# Create Data-Driven News Articles
 
 <img src="figures/dadp_small2.png" width="550px"/>
 <br/>
