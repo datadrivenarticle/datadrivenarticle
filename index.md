@@ -4,11 +4,10 @@
 <br/>
 
 
+Through the analysis of 162 data-driven news articles collected from news media, we identified five types of articles based on the level of data involvement and narrative complexity: Quick Update, Briefing, Chart Description, Investigation, and In-depth Investigation. We then identified 72 [design patterns for data-driven news articles](https://datadrivenarticle.github.io/patterns.html) to support the design and creative exploration of data-driven articles. This work is published at CHI 2024, the paper can be found [here]().
 
-This page lists [design patterns for data-driven news articles](https://datadrivenarticle.github.io/patterns.html) collected to support the design and creative exploration of data-driven articles. 
 
-
-## What are Data-driven News Articles？
+## What are Data-Driven News Articles？
 
 Data-driven journalism or data-driven news articles can be considered as journalism’s response to the datafication of society. They have been widely used in seasoned data news columns or personal blogs, also known as “textual narratives” and “magazine-style narrative visualizations”. The audience can easily delve into the database and explore personalized stories through fascinating visualization and interactions.
 
@@ -21,7 +20,7 @@ Creating a compelling data-driven article is admittedly not straightforward, eve
 Such a number of choices can be overwhelming, so there is a timely need for guidance in creating data-driven articles. By anylizing 71 data-driven news articles from large news agencies. We present patterns distilled from these examples, and aim to help editors with, or without experience in writing data-driven articles to mediate, and build up data-driven articles with meaningful visuals and compelling narratives.
 
 
-### Data-driven article creation patterns include: 
+### Data-driven news article creation patterns include: 
 * Headline
 * News Lead
 * Data source
